@@ -3,7 +3,7 @@
 
 
 let target = {1:"a" , 2:"c" , 3:"f"}
-let source = {1:"b" , 2:"d" , 3:"e"}
+let source = {4:"b" , 5:"d" ,6:"e"}
 
 // 'Object.assign()' copies one or more properties from one or more source object to target object
 
